@@ -1,0 +1,10 @@
+bolt\AirMediocreBolt.class
+Operator\Computation.class
+Consumer.class
+IOHiveStockage.class
+bolt\ExitAirMediocreBolt.class
+XmlReader.class
+Producer.class
+topology\AirMediocreTopology.class
+Run.class
+CSVReader.class
